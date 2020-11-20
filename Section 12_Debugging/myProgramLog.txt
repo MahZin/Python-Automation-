@@ -1,0 +1,32 @@
+(asctime)s - DEBUG - Start of program
+(asctime)s - DEBUG - Start of factorial(5)
+(asctime)s - CRITICAL - i is 1, total is 1
+(asctime)s - CRITICAL - i is 2, total is 2
+(asctime)s - CRITICAL - i is 3, total is 6
+(asctime)s - CRITICAL - i is 4, total is 24
+(asctime)s - CRITICAL - i is 5, total is 120
+(asctime)s - DEBUG - Return value is 120
+(asctime)s - DEBUG - Start of program
+(asctime)s - DEBUG - Start of factorial(5)
+(asctime)s - CRITICAL - i is 1, total is 1
+(asctime)s - CRITICAL - i is 2, total is 2
+(asctime)s - CRITICAL - i is 3, total is 6
+(asctime)s - CRITICAL - i is 4, total is 24
+(asctime)s - CRITICAL - i is 5, total is 120
+(asctime)s - DEBUG - Return value is 120
+(asctime)s - DEBUG - Start of program
+(asctime)s - DEBUG - Start of factorial(5)
+(asctime)s - CRITICAL - i is 1, total is 1
+(asctime)s - CRITICAL - i is 2, total is 2
+(asctime)s - CRITICAL - i is 3, total is 6
+(asctime)s - CRITICAL - i is 4, total is 24
+(asctime)s - CRITICAL - i is 5, total is 120
+(asctime)s - DEBUG - Return value is 120
+(asctime)s - DEBUG - Start of program
+(asctime)s - DEBUG - Start of factorial(5)
+(asctime)s - CRITICAL - i is 1, total is 1
+(asctime)s - CRITICAL - i is 2, total is 2
+(asctime)s - CRITICAL - i is 3, total is 6
+(asctime)s - CRITICAL - i is 4, total is 24
+(asctime)s - CRITICAL - i is 5, total is 120
+(asctime)s - DEBUG - Return value is 120
